@@ -114,14 +114,13 @@ main {
 }
 
 #reasons {
-    background-color: aquamarine;
     width: 90%;
     margin: 20px auto;
 }
 
 #reasons > h2 {
     font-size: 280%;
-    margin-bottom: 100px;
+    margin-bottom: 20px;
     text-align: center;
 }
 
