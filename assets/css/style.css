@@ -124,6 +124,22 @@ main {
     text-align: center;
 }
 
+#benefits hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
+}
+
+#benefits div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#benefits p {
+    padding-left: 20px;
+}
+
+
+
 /* Footer */
 #social-networks {
     text-align: center;
